@@ -1,0 +1,11 @@
+# Ignore all class files
+*.class
+
+# Other common ignores for Java projects
+*.log
+*.tmp
+*.swp
+.DS_Store
+.idea/
+*.iml
+*.jar
